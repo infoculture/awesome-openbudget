@@ -49,6 +49,9 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 * [Госзатраты. Открытые данные](http://clearspending.ru/opendata/)
 * [Госзатраты. Документация к API](https://github.com/idalab/clearspending-examples/wiki)
 
+## Открытые бюджеты федеральных органов власти
+* [Открытый бюджет Минпромторга](http://budget.minpromtorg.gov.ru/)
+
 ### Региональные порталы открытых бюджетов
 * [Открытый бюджет Ленинградской области](http://budget.lenobl.ru)
 * [Открытый бюджет города Москвы](http://budget.mos.ru)
@@ -58,6 +61,18 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 * [Открытый бюджет Краснодарского края](http://openbudget23region.ru)
 * [Открытый бюджет Ставропольского края](http://openbudsk.ru)
 * [Открытый бюджет Брянской области](http://bryanskoblfin.ru)
+* [Открытый бюджет Республики Карелия](http://openbudget.karelia.ru/)
+* [Открытый бюджет Тульской области](http://dfto.ru/)
+* [Открытый бюджет Камчатского края](http://openbudget.kamgov.ru/)
+* [Открытый бюджет Ставропольского края](http://openbudsk.ru/)
+* [Открытый бюджет города Севастополь](http://ob.sev.gov.ru/)
+* [Открытый бюджет Новгородской области](http://portal.novkfo.ru/)
+
+
+## Муниципальные порталы открытых бюджетов
+* [Открытый бюджет города Химки](http://budget.admhimki.ru/ru)
+* [Открытый бюджет муниципального образования Шушары города Санкт-Петербурга](http://xn--80axgjn3ab0a.xn--p1ai/ob/)
+
 
 ### Зарубежные порталы открытых бюджетов
 
