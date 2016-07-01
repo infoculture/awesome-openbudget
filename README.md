@@ -29,8 +29,6 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 ### Российские проекты
 
 * [Госзатраты](http://clearspending.ru)
-** [Госзатраты. Открытые данные](http://clearspending.ru/opendata/)
-** [Госзатраты. Документация к API](https://github.com/idalab/clearspending-examples/wiki)
 * [Российские школы | Портал Российские школы использующие данные Госзатрат и реестра госучреждений](http://russianschools.ru/)
 
 ### Зарубежные проекты
@@ -48,6 +46,8 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 * [Единая информационная система в сфере закупок РФ](http://new.zakupki.gov.ru/epz/main/public/home.html)
 * [Реестр субсидий РФ](http://rs.budget.gov.ru)
 * [Официальный сайт для размещения информации о государственных (муниципальных) учреждениях](http://bus.gov.ru)
+* [Госзатраты. Открытые данные](http://clearspending.ru/opendata/)
+* [Госзатраты. Документация к API](https://github.com/idalab/clearspending-examples/wiki)
 
 ### Региональные порталы открытых бюджетов
 * [Открытый бюджет Ленинградской области](http://budget.lenobl.ru)
