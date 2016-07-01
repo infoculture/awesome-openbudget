@@ -29,12 +29,15 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 ### Российские проекты
 
 * [Госзатраты](http://clearspending.ru)
-* [Российские школы](http://russianschools.ru/)
+** [Госзатраты. Открытые данные](http://clearspending.ru/opendata/)
+** [Госзатраты. Документация к API](https://github.com/idalab/clearspending-examples/wiki)
+* [Российские школы | Портал Российские школы использующие данные Госзатрат и реестра госучреждений](http://russianschools.ru/)
 
 ### Зарубежные проекты
 
 * [Open Budget Index](http://www.internationalbudget.org/opening-budgets/open-budget-initiative/open-budget-survey/publications-2/rankings-key-findings/rankings/)
-* [OpenSpending](https://openspending.org)
+* [OpenSpending | Spending transparency portal by Open Knowledge International](https://openspending.org)
+* [Open Contracting. Public contracts disclosure standard](http://www.open-contracting.org/)
 
 ## Источники финансовых данных
 
@@ -63,6 +66,6 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 ## Сообщества
 
 ## Мероприятия
-
+* [BudgetApps | Ежегодный конкурс приложений и инфографики Минфина России](http://budgetapps.ru)
 
 
