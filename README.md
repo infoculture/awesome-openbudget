@@ -75,6 +75,12 @@ Open budget resources (in Russian and English) / Открытые бюджеты
 
 
 ### Зарубежные порталы открытых бюджетов
+* [Budget Visualization Framework](https://github.com/goinvo/Visual-Town-Budget) движок для визуализации с открытым кодом используемый для визуализации [бюджета города Арлингтона](http://arlingtonvisualbudget.org/)
+* [The Open Budget](https://github.com/robbiewain/theopenbudget) красивая визуализация бюджета Австралии с открытым кодом 
+* [Bern Open Budget](https://github.com/tpreusse/open-budget) открытый код визуализации бюджета города Берна, публично доступно по ссылке [http://bern.budget.opendata.ch](http://bern.budget.opendata.ch/)
+* [The National Budget](https://github.com/informeren/dataviz-budget) визуализация бюджета Дании с открытым кодом
+* [Scrubbing Budget](https://github.com/asolove/scrubbing-budget) открытая интерактивная визуализация бюджета США
+* [DC Public Schools Budget](https://github.com/codefordc/dcps-budget) интерактивная визуализация бюджетов школ округа Колумбия, с открытым кодом
 
 ## Блоги и ресурсы
 
